@@ -16,7 +16,7 @@ SETUP
 Useage
 - For optimal use go to bedwars lobby
 - Go to the swimming pool diving board to not get afk'ed
-- ![alt text](https://i.imgur.com/fLYGOhj.png)
+- https://i.imgur.com/fLYGOhj.png
 - run /nick help setrandom
 - to stop just press escape (maybe more than once)
 
